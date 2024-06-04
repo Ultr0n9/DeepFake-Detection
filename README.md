@@ -34,5 +34,8 @@ Then after that run the app.py and test the project
 
 #Result
 
-![image](https://github.com/Ultr0n9/DeepFake-Detection/assets/167056703/7d174234-c9d3-4bb4-b7ab-2976699d0b07)
+
+https://github.com/Ultr0n9/DeepFake-Detection/assets/167056703/58f7197a-bd68-4b0b-9b3c-fd74d9223ac6
+
+
 
